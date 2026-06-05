@@ -14,10 +14,14 @@ It contains its own **package manager** (BPM), **shell** (BUSH), **full-disk enc
 
 ## 🖥️ Usage
 
-Download the distribution you are interested in using. There are three distributions:
+Download the distribution you are interested in using from the release page. There are three distributions:
 
 - **min** (Minimal): The base package.
 
 - **std** (Standard): The standard package. **All packages are tested**. Recommended for the majority of users.
 
 - **ext** (Extended): The extended package. Contains experimental/extended scripts from **SpyDrone**.
+
+Once you have extracted the files, run `python3 fdea-1.py`. You will be prompted with a password. The default is `hello`.
+
+BUGPy's commands are based on *NIX commands. If you are comfortable in a Linux terminal, you will be able to use BUGPy.
