@@ -14,7 +14,7 @@ It contains its own **package manager** (BPM), **shell** (BUSH), **full-disk enc
 
 ## 🖥️ Usage
 
-Download the distribution you are interested in using from the release page. There are three distributions:
+Download the distributions from the [release page](https://git.wholeworldcoding.com/wholeworldcoding/BUGPy-mOS/releases). There are three distributions:
 
 - **min** (Minimal): The base package.
 
