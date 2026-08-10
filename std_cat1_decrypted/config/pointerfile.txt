@@ -1,0 +1,261 @@
+#bpm
+bpm: bpm
+bugs_package_manager: bpm
+
+#browse
+browse: browse
+browser: browse
+web: browse
+
+#calculator
+calc: calculator
+calculator: calculator
+
+#cat
+cat: cat
+
+#change_directory
+cd: change_directory
+change_directory: change_directory
+
+#clear_screen
+clear: clear_screen
+clear_screen: clear_screen
+cls: clear_screen
+
+#compare_file
+compare: compare_file
+compare_file: compare_file
+diff: compare_file
+
+#compress
+compress: compress
+decompress: compress
+gunzip: compress
+gz: compress
+gzip: compress
+
+#copy_object
+copy: copy_object
+copy_object: copy_object
+cp: copy_object
+
+#current_working_directory
+cwd: current_working_directory
+whereami: current_working_directory
+
+#disk_clean
+cdisk: disk_clean
+
+#display_bugpy_intro
+display_bugpy_intro: display_bugpy_intro
+whatami: display_bugpy_intro
+
+#display_bugpy_purpose
+display_bugpy_purpose: display_bugpy_purpose
+whyami: display_bugpy_purpose
+
+#display_im_good_idk_if_ur_good_message
+display_im_good_idk_if_ur_good_message: display_im_good_idk_if_ur_good_message
+howami: display_im_good_idk_if_ur_good_message
+
+#display_user_name
+display_user_name: display_user_name
+whoami: display_user_name
+
+#download
+download: download
+fetch: download
+wget: download
+
+#drone_game
+drone: drone_game
+drone_game: drone_game
+
+#exit
+exit: exit
+poweroff: exit
+shutdown: exit
+
+#file_information
+file_information: file_information
+info: file_information
+stat: file_information
+
+#find_file
+find: find_file
+find_file: find_file
+
+#grep
+grep: grep
+
+#head
+head: head
+
+#history
+hist: history
+history: history
+
+#home
+home: home
+~: home
+
+#list_files
+dir: list_files
+list_files: list_files
+ls: list_files
+
+#log
+log: log
+logger: log
+
+#make_archive
+make_archive: make_archive
+zip: make_archive
+zip_it_u_dumb_ass: make_archive
+
+#make_directory
+make_directory: make_directory
+mkdir: make_directory
+
+#make_file
+make_file: make_file
+mk: make_file
+
+#manual
+guide: manual
+help: manual
+man: manual
+manual: manual
+
+#microbe
+micro: microbe
+microbe: microbe
+
+#move_object
+move: move_object
+move_object: move_object
+mv: move_object
+
+#octolinkyt_bio
+OctoLinkYT: octolinkyt_bio
+octolinkyt: octolinkyt_bio
+
+#octuple
+octuple: octuple
+
+#p7mj_bio
+P7MJ: p7mj_bio
+p7mj: p7mj_bio
+p7mj_bio: p7mj_bio
+
+#pcs
+encrypt: pcs
+pcs: pcs
+
+#ping
+ping: ping
+
+#print_input
+echo: print_input
+print: print_input
+print_input: print_input
+
+#pyvi
+biate: pyvi
+biate_isn't_a_text_editor: pyvi
+bite: pyvi
+bites: pyvi
+bits_integers_and_text_editing_suite: pyvi
+bugs_integrated_text_editor: pyvi
+python_vi: pyvi
+pyvi: pyvi
+vi: pyvi
+
+#remove
+remove: remove
+rm: remove
+
+#repeat_command
+rep: repeat_command
+repeat: repeat_command
+repeat_command: repeat_command
+
+#retardedness
+retardedness: retardedness
+
+#run
+exec: run
+run: run
+shell: run
+sysrun: run
+
+#say_greeting
+greeting: say_greeting
+greetings: say_greeting
+hello: say_greeting
+hi: say_greeting
+say_greeting: say_greeting
+say_greetings: say_greeting
+
+#spydrone_bio
+SpyDrone: spydrone_bio
+spydrone: spydrone_bio
+spydrone_bio: spydrone_bio
+
+#startup
+startup: startup
+
+#sysinfo
+sysinfo: sysinfo
+system_info: sysinfo
+systeminfo: sysinfo
+
+#sysshell
+chooseaname: sysshell
+escbp: sysshell
+osh: sysshell
+outershell: sysshell
+sysshell: sysshell
+
+#tail
+tail: tail
+
+#tar
+tar: tar
+tarball: tar
+
+#timer
+countdown: timer
+remind: timer
+reminder: timer
+timer: timer
+
+#touch_file
+touch: touch_file
+touch_file: touch_file
+
+#tree_view
+tree: tree_view
+tree_view: tree_view
+
+#units
+conv_unit: units
+convert_unit: units
+convert_units: units
+units: units
+
+#unmake_archive
+im_gonna_unmake_u_like_i_unmake_this_archive: unmake_archive
+unmake_archive: unmake_archive
+unzip: unmake_archive
+
+#var
+env: var
+var: var
+
+#wc
+count_word: wc
+wc: wc
+word_count: wc
+word_stats: wc

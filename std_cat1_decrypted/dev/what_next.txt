@@ -1,0 +1,6 @@
+[x] Fix the bug where BUSH assigns half-typed commands to real ones, like v to vi
+[ ] Finish BUGUI
+[ ] Add optional AI app
+[ ] Add a remote package manager
+[ ] Remove unneccesary aliases
+[ ] Redesign alias and shell system

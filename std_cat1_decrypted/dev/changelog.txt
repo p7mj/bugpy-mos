@@ -1,0 +1,110 @@
+BUGPy-mOS CHANGELOG
+
+BUGPy-mOS-0 "Devvie"
+    Added all basic functions and not working p7c. Tried FDEA initial implementation.
+
+BUGPy-mOS-1 "Expansion"
+    A-1 (No nickname)
+        i:
+            Added mv, cp, and pyvi. Added FDEA-1 new implementation
+        ii:
+            Unknown refinements that might have included:
+                The new, beautiful command prompter
+    A-2 "Package Hell"
+        i:
+            Flattened scripts folder and removed individual script folders.
+            Separated command parser into the BUGS-Shell (bush).
+            Added BUSH scripting, allowing users to create .bug scripts to automate commands.
+            Added Bugs Package Manager, allowing users to easily install and purge scripts and their aliases.
+            Added temp directory for BPM to temporarily unzip files.
+            Added home directory for users to put own files into.
+            Made video about the new additions. Currently in the archive.
+        ii:
+            Removed ? from what_next?.txt to ensure Windows compat.
+            Removed testing hello.zip package.
+            Removed defunct P7C package.
+            Removed test .bug script from home folder and .bug script results.
+            Removed all testing files.
+            Fixed a minor issue where BPM keeps adding comments for new aliases but does not remove them, resulting in clutter in the pointerfile.
+            Removed non-essential aliases for pyvi.
+            Added dev folder for putting this changelog and what_next.txt.
+    A-3 "Encrypted Scripting"
+        i:
+            Fixed and added pcs (previously p7c) package into scripts folder
+            Added clear_screen to scripts
+            Added current_working_directory to scripts
+            Added print_input to scripts
+            Added username and hidden easter egg
+            DID NOT add whoami command due to laziness and path hell
+            Added make_archive to scripts
+            Added unmake_archive to scripts
+            Made the very unhelpful help command 0.000001% more useful
+        i-home+new-unzip-alias:
+            Added home command
+            Added new unzip alias
+        ii:
+            Added help pages to every command
+            Fixed the missing copy_object command aliases in pointerfile.txt
+        iii "Drones Fly Overhead":
+            Added calculator
+            Added cat
+            Added drone_game
+            Added file_information
+            Added grep
+            Added head
+            Added log
+            Added sysinfo
+            Added tail
+            Added timer
+            Added tree_view
+            Added wc
+            Added history
+            Added history logging to bush
+        iv "Quadratic Function":
+            Added whoami
+            Added whatami
+            Added whereami
+            Added whyami
+            Added howami
+            Added p7mj_bio
+            Added spydrone_bio
+            Added octolinkyt_bio
+            Added retardedness
+            Added repeat_command
+            Added octuple
+            Added compare_file
+            Added disk_clean
+            Added diskinfo
+            Added units
+            Added run
+            Added passgen to P7MJ-C A-3 Addons
+            Added serve to P7MJ-C A-3 Addons
+            Updated FDEA to add shutdown option for mkosi
+            Updated FDEA to add exit option
+            Updated history to add flags -c and --clear
+            Updated BUSH logging to use history/history.txt
+            Updated history to use history/history.txt
+            Updated help formats and script -h printouts
+            Fixed an issue in history where there was no catch for invalid parameters
+            Fixed BUSH script crash and ^C leading to system termination.
+            Fixed retardedness of dev P7MJ from 100% to 99%
+            Removed home from P7MJ-C BUGPy A-3 Addons
+    A-4 "Graphical Upgrades"
+        i:
+            Updated BUSH to include history-based autocomplete and inline typo detection
+            Updated FDEA to add SIGINT and SIGTERM handlers
+            Updated BPM to include --autoremove and --organize
+            Added sysshell to drop into the native linux shell
+            Added browse
+            Added compress
+            Added download
+            Added ping
+            Added tar
+            Adeed var
+            Added the three-distro system: min, std and ext
+            Added microbe, the micro text editor clone
+            Made new colors in color_print
+            Made Pyvi better
+            Fixed history in bush to use history/history.txt
+            Cleaned test packages and history
+

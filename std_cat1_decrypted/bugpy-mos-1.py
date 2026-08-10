@@ -1,0 +1,2 @@
+import bush
+bush.cli()

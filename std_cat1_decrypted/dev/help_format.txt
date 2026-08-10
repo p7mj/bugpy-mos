@@ -1,0 +1,18 @@
+PROGRAM [version] (if applicable; Usually empty)
+Usage:
+  program <params> {files} [flags] (choices)
+
+Parameters:
+  params
+
+Files:
+  files
+
+Flags:
+  flags
+
+Choices:
+  choices
+
+Notes:
+  Notes
